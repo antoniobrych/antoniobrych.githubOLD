@@ -2,4 +2,4 @@
 
 For details on this professional portfolio, please see https://techfolios.github.io.
 
-Built upon techfolios template.
+*Built upon Techfolios portfolio template*
