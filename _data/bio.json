@@ -1,45 +1,94 @@
 {
   "basics": {
-    "name": "Antonio Brych",
-    "label": "Portfolio",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "antoniosouzabrych@gmail.com",
-    "website": "https://antoniobrych.github.io",
-    "summary": "Estudante de Ciência de Dados na FGV EMAp, Escola de Matemática Aplicada da Fundação Getúlio Vargas",
+    "name": "Molly Maluhia",
+    "label": "Student",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "antoniobrych", "url": "http://github.com/antoniobrych" },
-      { "network": "linkedin", "username": "antoniobrych", "url": "https://www.linkedin.com/in/antonio-brych-7803b61ba/" },
-      { "network": "kaggle", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
+      },
+      {
+        "network": "linkedin",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
     ]
   },
   "interests": [
-    { "name": "Aprendizagem de Máquina" },
-    { "name": "Otimização e Predição" },
-    { "name": "Solucionar problemas reais com Ciência de Dados/IA"},
-
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Lua", "C/C++", "SQL"]
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "TensorFlow", "Pandas", "Matplotlib", "BeautifulSoup", "Numpy" ]
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
+      ]
     }
-      {
-      "name": "Línguas",
-      "keywords": [ "Inglês", "Alemão", "Português"]
-    },
   ],
   "education": [
     {
-      "institution": "Pontifícia Universidade Católica (PUC-RIO)",
-      "area": "Ciência da Computação",
-      "studyType": "Graduação",
-      "startDate": "2015-08-01",
-      "endDate": "2015-08-01",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "gpa": "",
       "courses": [
       ]
     }
@@ -113,7 +162,8 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
