@@ -14,11 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "NULL" },
-    { "name": "Métodos de Álgebra Linear em dados" },
-    { "name": "Mercado Financeiro: Otimização e Predição (Modelagem)" },
-    { "name": "NULL" },
-    { "name": "NULL" }
+    { "name": "Aprendizagem de Máquina" },
+    { "name": "Aplicação de métodos matemáticos em problemas reais" },
+    { "name": "Otimização e Predição" }
   ],
   "skills": [
     {
