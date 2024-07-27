@@ -8,15 +8,16 @@
     "summary": "Estudante de Ciência de Dados na FGV EMAp, Escola de Matemática Aplicada da Fundação Getúlio Vargas",
     "profiles": [
       { "network": "github", "username": "antoniobrych", "url": "http://github.com/antoniobrych" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "linkedin", "username": "antoniobrych", "url": "https://www.linkedin.com/in/antonio-brych-7803b61ba/" },
       { "network": "kaggle", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
     { "name": "Aprendizagem de Máquina" },
-    { "name": "Aplicação de métodos matemáticos em problemas reais" },
-    { "name": "Otimização e Predição" }
+    { "name": "Otimização e Predição" },
+    { "name": "Solucionar problemas reais com Ciência de Dados/IA"},
+
   ],
   "skills": [
     {
@@ -25,16 +26,20 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "TensorFlow", "Pandas", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "TensorFlow", "Pandas", "Matplotlib", "BeautifulSoup", "Numpy" ]
     }
+      {
+      "name": "Línguas",
+      "keywords": [ "Inglês", "Alemão", "Português"]
+    },
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Pontifícia Universidade Católica (PUC-RIO)",
+      "area": "Ciência da Computação",
+      "studyType": "Graduação",
+      "startDate": "Março 2022",
+      "endDate": "Novembro 2022",
       "courses": [
       ]
     }
